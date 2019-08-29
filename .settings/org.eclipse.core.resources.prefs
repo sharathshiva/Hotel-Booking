@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/addhotel.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/deletehotel.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/filterhotel.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/gethotelsbycity.jsp=UTF-8
